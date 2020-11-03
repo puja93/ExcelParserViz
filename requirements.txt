@@ -5,3 +5,4 @@ openpyxl==3.0.4
 matplotlib==3.2.2
 scikit-image==0.16.2
 xlrd==1.2.0
+voila==0.2.4
